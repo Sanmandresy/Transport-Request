@@ -62,13 +62,13 @@ Request list :
 - [] Rechercher quels véhicules ont été conduit par tel ou tel chauffeur
 - [] liste des depenses de chaque vehicule
 - [] les infos des chauffeurs absents (qu'est ce qu'un chauffeur absent ? )
-- [] les depenses de chaque voiture
+- [x] les depenses de chaque voiture
 - [] Depuis quand tel véhicule n'a plus été fonctionnel ou a recommencé à fonctionner
 - [] afficher tous les matricule des voitures qui vont à une certaine ville, et leur état. (notion de voyage inclus ?)
 - [] Quelle destination est la plus prisée donc remporte le plus
-- [] les reservations des clients
+- [x] les reservations des clients
 - [] nombres d'aller/retour faitent par chaque vehicule en une journée
 - [] les voyages annulé a cause du mauvais temps (faudrait penser à comment introduire la notion d'annuler un voyage ?)
 - [] Le nombre de mineur qui participe a un voyage
-- [] le nombre de clients
+- [x] le nombre de clients
 - [] liste des choix d'offre des clients
