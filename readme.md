@@ -36,7 +36,7 @@ Request list :
 - [] Quelles sont les dépenses effectuées par tel ou tel véhicule pendant un délai bien déterminé
 - [x] les offres pour une ville.
 - [] les jours qui n'ont aucun réservation (jour de la semaine ? ou bien toutes les dates ?)
-- [] Les clients qui ont achetés l'offre premium.
+- [x] Les clients qui ont achetés l'offre premium.
 - [] Le nombre total de voyage prevu a une heure precise dans une ville vers une destination precise
 - [x] Le nombre total de vehicule fonctionnelle
 - [] Le nombre total de client qui reserve un voyage dans une destination precise avec un offre lite/premium
