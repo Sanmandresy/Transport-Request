@@ -1,1 +1,1 @@
-select * from depense;
+select * from recevoir;
