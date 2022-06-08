@@ -1,0 +1,1 @@
+select tarif,label,date_voyage,nom_ville from offre inner join voyage on offre.id_offre = voyage.id_offre inner join ville on ville.id_ville = voyage.id_ville_depart where nom_ville = 'Majunga';
