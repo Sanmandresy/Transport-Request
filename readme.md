@@ -34,15 +34,15 @@ Request list :
 - [] calculer le total d'argent gagné entre deux dates.
 - [] le nombre de passagers ne faisant que la moitiée des voyages
 - [] Quelles sont les dépenses effectuées par tel ou tel véhicule pendant un délai bien déterminé
-- [] les offres pour une ville.
+- [x] les offres pour une ville.
 - [] les jours qui n'ont aucun réservation (jour de la semaine ? ou bien toutes les dates ?)
 - [] Les clients qui ont achetés l'offre premium.
 - [] Le nombre total de voyage prevu a une heure precise dans une ville vers une destination precise
-- [] Le nombre total de vehicule fonctionnelle
+- [x] Le nombre total de vehicule fonctionnelle
 - [] Le nombre total de client qui reserve un voyage dans une destination precise avec un offre lite/premium
 - [] Le nombre de voyage dans une ville entre deux date precise
 - [] Combien de clients ont été enregistré tel ou tel jour
-- [] afficher les voyages du jour de classe light/prémium avec leurs heures de départ.
+- [x] afficher les voyages du jour de classe light/prémium avec leurs heures de départ.
 - [] Les clients qui ont reservé un voyage vers Diego avec comme ville de départ Majunga. (ou d'autres villes en fait)
 - [] Faire un comparatif des tarifs de voir qui est le plus rentable pour la société
 - [] dépense des véhicules après un certain nombre de voyage faites
@@ -52,7 +52,7 @@ Request list :
 - [] les véhicules qui dépensent le plus et ceux qui sont souvent en panne (consommation d'essence ou réparation)
 - [] Le vehicule qui a le plus gros depense
 - [] le nombre de voyage par villes (ville plus fréquentée et moins fréquentée)
-- [] le nombre de voiture en panne (à l'heure actuelle ?)
+- [x] le nombre de voiture en panne (à l'heure actuelle ?)
 - [] Le nom des chauffeurs qui conduiront l'allerretour (vous prenez en compte la notion d'aller retour ? )
 - [] Combien de voyages ont été effectués tel ou tel jour, à tel ou tel endroit
 - [] Cherchez les clients qui ont reservé pour fianarantsoa (OU UNE VILLE x EN FAIT)
