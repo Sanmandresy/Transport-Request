@@ -9,7 +9,7 @@ Request list :
 - [] tous les véhicules qui ont participé à un voyage à une date précise.
 - [] Qui est le chauffeur qui a le plus conduit pendant telle durée
 - [] Quand est ce que tel ou tel client a réservé
-- [] liste des voyages et leurs destinations
+- [x] liste des voyages et leurs destinations
 - [] Liste des vehicules qui ont encore des places libre dans telle ville vers telle ville
 - [] liste des revenues par semaines/mois/année
 - [] Liste des réservations payées/non payées.
