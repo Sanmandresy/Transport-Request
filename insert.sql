@@ -58,10 +58,11 @@ insert into vehicule(matricule,nb_place,statuts) values(
     'KLR9632',20,true
 );
 
-insert into voyage(date_voyage,heure_dep,nb_place_dispo,id_vehicule,matricule,id_ville_depart,id_ville_arrivee) values(
-        '2022-05-12','06:00:00',20,1,3,3,4
+
+insert into voyage(date_voyage,heure_dep,nb_place_dispo,id_vehicule,id_ville_depart,id_ville_arrivee) values(
+        '2022-05-12','06:00:00',20,1,3,4
 ),(
-    '2022-08-02','08:25:00',15,3,1,2,7
+    '2022-08-02','08:25:00',15,1,2,7
 );
 
 
