@@ -1,0 +1,1 @@
+select date_reservasition, place from reserver, voyage where reserver.id_voyage= voyage.id_voyage;
