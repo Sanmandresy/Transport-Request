@@ -48,7 +48,7 @@ insert into ville(nom_ville) values(
     'Antsirabe'
 );
 
-insert into vehicule values(
+insert into vehicule(matricule,nb_place,statuts) values(
     'TAB1254',15,true
 ),(
     'TBB7854',15,true
@@ -58,10 +58,11 @@ insert into vehicule values(
     'KLR9632',20,true
 );
 
-insert into voyage(date_voyage,heure_dep,nb_place_dispo,id_offre,matricule,id_ville_depart,id_ville_arrivee) values(
-        '2022-05-12','06:00:00',20,1,'MRE5621',3,4
+
+insert into voyage(date_voyage,heure_dep,nb_place_dispo,id_vehicule,id_ville_depart,id_ville_arrivee) values(
+        '2022-05-12','06:00:00',20,1,3,4
 ),(
-    '2022-08-02','08:25:00',15,3,'TAB1254',2,7
+    '2022-08-02','08:25:00',15,1,2,7
 );
 
 
@@ -73,9 +74,9 @@ insert into reserver values(
 
 
 insert into conduire values(
-    5,'MRE5621'
+    5,3
 ),(
-    1,'TAB1254'
+    1,1
 );
 
 insert into depense(essence,maintenance) values(
@@ -85,7 +86,7 @@ insert into depense(essence,maintenance) values(
 );
 
 insert into recevoir values(
-    'MRE5621',2
+    4,2
 ),(
-    'TAB1254',1
+    1,1
 );
