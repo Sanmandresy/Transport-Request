@@ -1,0 +1,1 @@
+select nom, prenom from chauffeur, vehicule where chauffeur.id_vehicule= vehicule.id_vehicule;
