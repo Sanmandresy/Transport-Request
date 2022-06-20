@@ -1,0 +1,1 @@
+select date_reservation, place from reserver inner join voyage on  where reserver.id_voyage= voyage.id_voyage;
