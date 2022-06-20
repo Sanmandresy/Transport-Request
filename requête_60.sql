@@ -1,0 +1,1 @@
+select matricule from vehicule inner join ville on vehicule.id_ville= ville.id_ville;
