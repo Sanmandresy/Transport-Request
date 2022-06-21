@@ -1,0 +1,1 @@
+select nom,prenom,contact,cin,label from client inner join reserver on client.id_client = reserver.id_client inner join offre on reserver.montant_paye = offre.tarif where offre.tarif = '120000';

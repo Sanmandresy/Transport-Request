@@ -1,0 +1,1 @@
+select id_ville_depart,id_ville_arrivee,nom_ville as arrivee from voyage inner join ville on voyage.id_ville_arrivee = ville.id_ville;  
