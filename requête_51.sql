@@ -1,0 +1,1 @@
+select nom, prenom from client inner join reserver on client.id_reserver= reserver.id_reserver;
